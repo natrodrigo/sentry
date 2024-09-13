@@ -24,7 +24,7 @@ Sentry.init({
 
 function App() {
   function errorFn() {
-    const string = "";
+    const string = "a";
     console.log(string.split(",")[1].replace(".", ""));
   }
 
