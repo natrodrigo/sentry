@@ -29,7 +29,7 @@ function App() {
   }
 
   function expectedErrorFn() {
-    throw new Error("Erro de configuração")
+    throw new Error("Erro de configuraçãoo")
   }
 
   return (
